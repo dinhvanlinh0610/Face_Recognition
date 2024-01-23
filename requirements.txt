@@ -1,0 +1,8 @@
+dlib
+face_recognition
+cv2
+fast-api
+uvicorn
+python-multipart
+shutil
+numpy
